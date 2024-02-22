@@ -1,0 +1,12 @@
+{
+    "i18n-ally.localesPaths": [
+        "locales"
+    ],
+    "i18n-ally.keystyle": "nested",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/17d36278-f06f-4a4e-b540-af11dbcf181b/resourceGroups/SPC雲免費練習組/providers/Microsoft.Web/sites/sam-vue-test1",
+    "appService.deploySubpath": "dist"
+}

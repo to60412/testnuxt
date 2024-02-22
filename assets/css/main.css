@@ -1,0 +1,20 @@
+.normalTb th {
+    border-right: 1px solid #CFD8DC !important;
+    border-left: 1px solid #CFD8DC !important;
+    border-bottom: 1px solid #CFD8DC !important;
+}
+
+.normalTb td {
+    border: 1px solid #CFD8DC !important;
+}
+
+.normalTb table thead tr th {
+    background: #ECEFF1 !important;
+}
+
+.normalTb {
+    border-top: 1px solid #CFD8DC !important;
+    border-left: 1px solid #CFD8DC !important;
+    border-right: 1px solid #CFD8DC !important;
+    border-bottom: 1px solid #CFD8DC !important;
+}
