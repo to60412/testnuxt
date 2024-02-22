@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app> 
     <v-layout>
       <v-app-bar color="#e7e7e7" height="38">
         <template v-slot:prepend> </template>
